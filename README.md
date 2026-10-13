@@ -40,7 +40,3 @@ A C++11-compatible compiler is required. See the build instructions and project 
 ## Project Report
 
 See `IU2541230517_Project_Report.pdf`.
-
-## Testing
-
-Test question management, quiz scoring, saving, and loading before final submission.
